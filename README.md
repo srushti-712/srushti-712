@@ -12,6 +12,7 @@ I am experienced in the MERN stack.
 
 Thank you for visiting!
 
+![Visitor Count](https://profile-counter.glitch.me/{srushti-712}/count.svg)
 
 
 
