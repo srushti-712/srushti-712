@@ -12,10 +12,6 @@ I am experienced in the MERN stack.
 
 Thank you for visiting!
 
-Catch me @
-
-🌐 [im-srushti-rane](https://im-srushti-rane.vercel.app/)
-
 
 
 
@@ -32,4 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Catch me @
+
+🌐 [im-srushti-rane](https://im-srushti-rane.vercel.app/)
 -->
