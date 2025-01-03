@@ -25,8 +25,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srushti-712&show_icons=true&locale=en&layout=compact" alt="srushti-712" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srushti-712&show_icons=true&locale=en" alt="srushti-712" /></p>
 
+-->
 
 <!--
 **srushti-712/srushti-712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
