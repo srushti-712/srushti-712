@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 Srushti here 🌼
+
 I am a Full-stack developer, eager to learn and expand my horizons of knowledge.
+
 I like drawing, painting sketching and listening to music 🎶
+
 I am currently learning Spring Boot and creating a project based on it.
+
 I am experienced in the MERN stack.
 
 Thank you for visiting!
