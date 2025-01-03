@@ -9,8 +9,9 @@
 
 - 🌱 I’m currently learning **Spring Boot and creating a project based on it**
 
+<!--
 - 👨‍💻 All of my projects are available at [https://im-srushti-rane.vercel.app/](https://im-srushti-rane.vercel.app/)
-
+-->
 - 💬 Ask me about **react.js, node.js**
 
 - 📫 How to reach me **srushtirane2000@gmail.com**
