@@ -12,7 +12,7 @@
 <!--
 - 👨‍💻 All of my projects are available at [https://im-srushti-rane.vercel.app/](https://im-srushti-rane.vercel.app/)
 -->
-- 💬 Ask me about **react.js, node.js**
+- 💬 Ask me about **react.js, node.js, java**
 
 - 📫 How to reach me **srushtirane2000@gmail.com**
 
