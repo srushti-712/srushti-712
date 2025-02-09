@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srushti Rane</h1>
-<h3 align="center">A frontend developer by profession, a learner at heart</h3>
+<h3 align="center">A fullstack developer by profession, a learner at heart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti-712&label=Profile%20views&color=0e75b6&style=flat" alt="srushti-712" /> </p>
 
