@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srushti-712" alt="srushti-712" /></a> </p>
 --> 
 
-- 🌱 I’m currently focusing on *Low Level Design*
+- 🌱 I’m currently focusing on *Low Level Design and React - the frontend framework*
 
 <!--
 - 👨‍💻 All of my projects are available at [https://im-srushti-rane.vercel.app/](https://im-srushti-rane.vercel.app/)
