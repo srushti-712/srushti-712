@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **srushtirane2000@gmail.com**
 
-- 🇩🇪 Learning to Speak German, for fun!
+- 🇩🇪 Learning German, for fun!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
