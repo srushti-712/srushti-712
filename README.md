@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **srushtirane2000@gmail.com**
 
+- 🇩🇪 Learning to Speak German, for fun!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/srushti-rane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srushti rane" height="30" width="40" /></a>
